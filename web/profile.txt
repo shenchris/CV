@@ -1,0 +1,3 @@
+As a computer science student at the City University of Hong Kong, I am driven by a passion for AI, robotics, and system administration. I gained valuable experience by participating in international robotics competitions and maintaining servers for my high school. My technical skills include familiarity with multiple programming languages such as C++, Java, and Python, and I also have knowledge in SA about using Docker, MySQL, Nginx...etc. And I'm currently studying Artificial Intelligence to apply to robotics.
+
+I am a team player who thrives in multicultural environments and enjoys collaborating with individuals from diverse backgrounds. My ultimate goal is to make people's lives easier, more efficient, and more connected through my innovations.
